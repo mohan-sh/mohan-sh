@@ -35,12 +35,10 @@ You can find me on LeetCode at [leetcode.com/user0899Hu](https://leetcode.com/us
 
 Here are some of the projects I've worked on:
 
-1. [Automobile Finance](https://github.com/aravinths479/AutoMobileFinance-2)
-2. [Vegetable Supply Chain Management](https://github.com/aravinths479/Vegetable-Supply-Chain-Management)
-3. [DataLoom - A Google Drive Clone](https://github.com/aravinths479/Data-Loom)
-4. [Coding Club Website](https://github.com/aravinths479/coding-club-ctpg)
-5. [Event Ticket Booking](https://github.com/aravinths479/Event-Ticket-Booking)
-6. [Car Rental Application](https://github.com/aravinths479/Car-Rental-Mern)
+1. [Simple Construction website](https://github.com/mohan-sh/happy-home-construction-website-)
+2. [Simple Battery Management website](https://github.com/mohan-sh/JavaScript-Poject)
+3. [Simple frontend page for battery management](https://github.com/mohan-sh/angular)
+
 
 ## Contact
 
