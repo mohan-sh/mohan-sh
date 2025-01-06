@@ -17,8 +17,7 @@ You can find me on LeetCode at [leetcode.com/user0899Hu](https://leetcode.com/us
 - Frontend: HTML, CSS, JavaScript, Bootstrap, ReactJs
 - Backend: NodeJs, ExpressJs, Postman
 - Database: MongoDB, MySQL
-- Amazon Web Services (AWS)
-- Languages: Java(Proficient), C, C++, Python
+- Languages: Java, C
   
 
 ## GitHub Stats
