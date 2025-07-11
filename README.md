@@ -10,7 +10,7 @@ Hello! 👋 I'm Mohan, a passionate developer with experience in web development
 
 ## LeetCode Profile
 
-You can find me on LeetCode at [leetcode.com/user0899Hu](https://leetcode.com/user0899Hu). I enjoy tackling LeetCode problems in Java to sharpen my algorithmic and problem-solving skills.
+You can find me on LeetCode at [leetcode.com/user0899Hu](https://https://leetcode.com/u/Mohan_S_18/). I enjoy tackling LeetCode problems in Java to sharpen my algorithmic and problem-solving skills.
 
 ## Technologies and Skills
 
