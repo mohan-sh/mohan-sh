@@ -24,7 +24,8 @@ You can find me on LeetCode at [leetcode.com/user0899Hu](https://https://leetcod
 
 <div align="center">
 
-[![GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=mohan-sh&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/mohan-sh)
+![Stats](https://github-readme-stats.vercel.app/api?username=mohan-sh&count_private=true&cache_seconds=30)
+
 
 </div>
 
